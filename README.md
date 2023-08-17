@@ -1,4 +1,4 @@
-# Google sheets Project-1. Dessertaa. Анализ бизнес модели
+# Google sheets Project-1. Анализ бизнес модели
 
 **Легенда**  	
 
